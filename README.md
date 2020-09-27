@@ -1,1 +1,1 @@
-# lma-django
+# Livestock Manager
